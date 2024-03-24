@@ -1,4 +1,4 @@
-# image-_Classification
+
 # Image Classification with CIFAR-10 Dataset
 
 This repository contains a Jupyter Notebook for image classification using the CIFAR-10 dataset. The project includes implementations of Convolutional Neural Networks (CNN) and Artificial Neural Networks (ANN) for multi-class image classification tasks.
@@ -11,13 +11,11 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
    ```bash
    git clone https://github.com/yourusername/Image-Classification-CIFAR10.git
 
-Models
+## Models
 The notebook includes implementations of the following models:
-
 Convolutional Neural Network (CNN) for image classification.
 Artificial Neural Network (ANN) for image classification.
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or create a pull request.
-
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details
